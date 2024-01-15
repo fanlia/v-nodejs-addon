@@ -19,7 +19,7 @@ fn napi_register_module_v1(env napi.Napi_env, exports napi.Napi_value) napi.Napi
 }
 
 fn add(a int, b int) int {
-	return a * b
+	return a + b
 }
 
 fn foo(env napi.Napi_env, info napi.Napi_callback_info) napi.Napi_value {
