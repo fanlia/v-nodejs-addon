@@ -1,5 +1,5 @@
 # v-nodejs-addon
-nodejs addon using v
+nodejs addon using v, currently is just a demo
 
 ## Usage
 
